@@ -16,4 +16,5 @@ for l in range(len(waystowin)):
       
 print(sum)
 
+# Part 2
 #part 2 run on pc takes 5 min
